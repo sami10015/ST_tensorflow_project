@@ -3,8 +3,6 @@ ST_Tensorflow_Project
 
 TensorFlow project implementing Artistic Style Transfer w/Deep Neural Networks. Add styles from famous paintings to any photo in a fraction of a second!
 
-----------
-
 
 Plan:
 -------------
