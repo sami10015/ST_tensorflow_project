@@ -1,0 +1,8 @@
+EPOCHS: 3
+BATCH SIZE: 4
+CONTENT WEIGHT: 7.5e0
+LEARNING RATE : 1e-3
+STYLE WEIGHT: 1e2
+
+------------------------
+TIME TO COMPLETE: ~24hrs
